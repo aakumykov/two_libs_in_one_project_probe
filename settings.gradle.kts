@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "two_libs_in_one_project_probe"
 include(":app")
 include(":probe_lib_1")
+include(":probe_lib_2")
